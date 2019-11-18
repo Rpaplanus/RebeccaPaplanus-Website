@@ -1,7 +1,16 @@
 
 # Rebecca Paplanus
+![Description of Image](img/websitescreenshot.png)
 
-![My Website](img/img044.jpg)
+
+
+
+
+
+
+
+
+
 
 
 
